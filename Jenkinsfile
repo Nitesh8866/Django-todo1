@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     BUILD_DIR = 'build'
-    APP_NAME = 'myapp'
+    APP_NAME = 'myapp1'
   }
 
   stages {
